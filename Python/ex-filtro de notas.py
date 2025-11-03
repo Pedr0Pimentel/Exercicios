@@ -7,6 +7,6 @@ def filtrar_aprovados(lista_de_notas):
 
 
 notas_originais=[8.5,4.0,10,6.5,7]
-print(listaA)
-lista_filtrada = filtrar_aprovados(listaA)
+print(notas_originais)
+lista_filtrada = filtrar_aprovados(notas_originais)
 print(lista_filtrada)
